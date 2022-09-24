@@ -10,7 +10,7 @@
 
 ![name](https://img.shields.io/badge/Vimal--Kumar-lightgrey)
 
-## See What you type [Live Link](https://name-conversion-js.netlify.app/)
+## See What you type [Live Link](https://see-what-youtype.netlify.app/)
 
 - Skills Gained in this project
 
